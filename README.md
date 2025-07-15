@@ -1,10 +1,12 @@
-# Telegram-bot
+## Meeting Notes
+All team meeting notes and decisions are documented in main/meeting-notes.md
+
+All team meeting notes and decisions are documented in [meeting-notes.md](./meeting-notes.md).
 # Motivational Quotes Telegram Bot
 
 ## Pitch
 Motivational Quotes Bot delivers a random motivational quote on demand, helping users stay inspired throughout the day. Powered by ZenQuotes.io, it’s a simple way to get a boost of wisdom and positivity with a single command.
 
-## Features
 - Get a random motivational quote with /quote
 - Attribution to ZenQuotes.io
 
