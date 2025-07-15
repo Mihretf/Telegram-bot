@@ -1,7 +1,6 @@
 ## Meeting Notes
-All team meeting notes and decisions are documented in main/meeting-notes.md
-
 All team meeting notes and decisions are documented in [meeting-notes.md](./meeting-notes.md).
+
 # Motivational Quotes Telegram Bot
 
 ## Pitch
